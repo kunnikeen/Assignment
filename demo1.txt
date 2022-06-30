@@ -1,2 +1,2 @@
 test git add .
-test git --amend
+test git --amend 123
